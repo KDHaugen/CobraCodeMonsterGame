@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/GitHub/CobraCodeMonsterGame/DungeonAdventure/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Admin/Documents/GitHub/CobraCodeMonsterGame/DungeonAdventure/Content/Maps/MAP_Dungeon.umap",
+				"C:/Users/Admin/Documents/GitHub/CobraCodeMonsterGame/DungeonAdventure/Content/Blueprints/GM_Dungeon.uasset"
+			]
+		}
+	]
+}
